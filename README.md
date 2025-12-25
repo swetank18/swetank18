@@ -55,28 +55,17 @@ I enjoy working at the intersection of **mathematics, computation, and modeling*
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=swetank18&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=swetank18&show_icons=true&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetank18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600"
-    alt="Top Languages"
-  />
-</p>
-
 
 ---
 
 ## 📫 Connect
 - 💼 LinkedIn: www.linkedin.com/in/swetank-kumar-706557249
-- ✉️ Email: 
+- ✉️ Email: swetankkumar391@gmail.com
 
 ---
 
