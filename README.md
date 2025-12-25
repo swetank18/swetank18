@@ -56,16 +56,26 @@ I enjoy working at the intersection of **mathematics, computation, and modeling*
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swetank18&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=swetank18&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=swetank18&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=swetank18&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetank18&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetank18&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    width="45%"
+  />
 </p>
 
 ---
