@@ -1,83 +1,37 @@
-<h1 align="center">Hi 👋, I'm Swetank Kumar</h1>
+# Swetank Kumar
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=CSE+Undergraduate;Competitive+Programming+%7C+Quant+%7C+ML;Research-Oriented+Developer;Preparing+for+Top-Tier+Internships+%26+GSoC" />
-</p>
+Computer Science undergraduate. I work at the intersection of machine learning, quantitative modeling, and systems engineering.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swetank18&label=Profile%20views&color=36BCF7&style=flat" />
-</p>
+**Interests:** Quantitative Finance, Machine Learning, Distributed Systems, Robotics
 
 ---
 
-## 🧠 About Me
-- 🎓 Computer Science undergraduate
-- 📐 Strong foundation in **Linear Algebra, Probability, Statistics**
-- 🧩 Interests: **Quantitative Finance, Machine Learning, Competitive Programming**
-- 🔬 Research-oriented mindset: model → experiment → evaluate
-- 🎯 Actively preparing for **research & quant-oriented internships**
+## Selected Projects
+
+**[CrowdAlpha](https://github.com/swetank18/CrowdAlpha)** — Multi-agent limit order book simulation platform. Features a research-oriented market engine where price emerges from agent interaction, live API/WebSocket streaming, React dashboard, crowding and fragility analytics, and sandboxed strategy deployment.
+
+**[MedBios-AI](https://github.com/swetank18/MedBios-AI)** — Clinical report intelligence platform. Combines OCR, clinical NLP, and medical knowledge reasoning to extract lab values, detect abnormalities, and generate physician-ready summaries with evidence mapping.
+
+**[Distributed ML Training Framework](https://github.com/swetank18/Distributed-ML-Training-Framework)** — Research-grade, correctness-first distributed training framework in Python, inspired by PyTorch Distributed and Horovod.
+
+**[Monte Carlo Options Pricing](https://github.com/swetank18/-Monte-Carlo-Simulation-for-Options-Pricing)** — European options pricing via Monte Carlo simulation under the risk-neutral measure, cross-checked against the Black-Scholes analytical formula.
+
+**[BIONEXUS](https://github.com/swetank18/BIONEXUS)** — Explainable AI system for medical report understanding. Converts raw reports (PDFs, images, text) into structured, clinician-ready summaries with sentence-level provenance.
+
+**[SPARC Rudra](https://github.com/swetank18/sparc-rudra)** — Simulation, URDF, stair detection, and Nav2 stubs for an autonomous rover.
 
 ---
 
-## 📐 Quant & Research Focus
+## Technical Skills
 
-I enjoy working at the intersection of **mathematics, computation, and modeling**.
+**Languages:** C++, Python, JavaScript/TypeScript
 
-- 📊 **Quantitative Thinking**
-  - Random variables, distributions, expectation
-  - Matrix methods, decompositions, optimization
-  - Risk–return trade-offs and evaluation metrics
+**ML/Scientific:** PyTorch, TensorFlow, scikit-learn, NumPy, Pandas
 
-- 🧠 **Research Approach**
-  - Hypothesis → Model → Experiment → Analysis
-  - Reading papers, reproducing results, extending ideas
-
-<p align="center">
-  <em>
-    maximize&nbsp;𝔼[PnL] &nbsp;subject to&nbsp; Risk ≤ ε  
-    <br/>
-    Loss(θ) = 𝔼[(y − f(x; θ))²] + λ‖θ‖₂
-  </em>
-</p>
+**Infrastructure:** Linux, Git, Docker, CMake, ROS2
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github,docker,latex,cmake&perline=8" />
-</p>
+## Contact
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&perline=5" />
-</p>
-
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=swetank18&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-</p>
-
----
-
-## 📫 Connect
-- 💼 LinkedIn: www.linkedin.com/in/swetank-kumar-706557249
-- ✉️ Email: swetankkumar391@gmail.com
-
----
-
-<p align="center">
-  <em>Build fundamentals. Think in models. Optimize later.</em>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/swetank18/swetank18/output/github-contribution-grid-snake.svg" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/swetank-kumar-706557249) | swetankkumar391@gmail.com
