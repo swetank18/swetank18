@@ -1,37 +1,53 @@
-# Swetank Kumar
+<h1 align="center">Swetank Kumar</h1>
 
-Computer Science undergraduate. I work at the intersection of machine learning, quantitative modeling, and systems engineering.
-
-**Interests:** Quantitative Finance, Machine Learning, Distributed Systems, Robotics
-
----
-
-## Selected Projects
-
-**[CrowdAlpha](https://github.com/swetank18/CrowdAlpha)** — Multi-agent limit order book simulation platform. Features a research-oriented market engine where price emerges from agent interaction, live API/WebSocket streaming, React dashboard, crowding and fragility analytics, and sandboxed strategy deployment.
-
-**[MedBios-AI](https://github.com/swetank18/MedBios-AI)** — Clinical report intelligence platform. Combines OCR, clinical NLP, and medical knowledge reasoning to extract lab values, detect abnormalities, and generate physician-ready summaries with evidence mapping.
-
-**[Distributed ML Training Framework](https://github.com/swetank18/Distributed-ML-Training-Framework)** — Research-grade, correctness-first distributed training framework in Python, inspired by PyTorch Distributed and Horovod.
-
-**[Monte Carlo Options Pricing](https://github.com/swetank18/-Monte-Carlo-Simulation-for-Options-Pricing)** — European options pricing via Monte Carlo simulation under the risk-neutral measure, cross-checked against the Black-Scholes analytical formula.
-
-**[BIONEXUS](https://github.com/swetank18/BIONEXUS)** — Explainable AI system for medical report understanding. Converts raw reports (PDFs, images, text) into structured, clinician-ready summaries with sentence-level provenance.
-
-**[SPARC Rudra](https://github.com/swetank18/sparc-rudra)** — Simulation, URDF, stair detection, and Nav2 stubs for an autonomous rover.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=A0AEC0&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Machine+Learning+%7C+Quantitative+Finance;Distributed+Systems+%7C+Robotics;Research-Oriented+Developer" />
+</p>
 
 ---
 
-## Technical Skills
-
-**Languages:** C++, Python, JavaScript/TypeScript
-
-**ML/Scientific:** PyTorch, TensorFlow, scikit-learn, NumPy, Pandas
-
-**Infrastructure:** Linux, Git, Docker, CMake, ROS2
+<p align="center">
+  <em>"The purpose of computing is insight, not numbers."</em> — Richard Hamming
+</p>
 
 ---
 
-## Contact
+### About
 
-[LinkedIn](https://www.linkedin.com/in/swetank-kumar-706557249) | swetankkumar391@gmail.com
+Computer Science undergraduate with a strong foundation in linear algebra, probability, and statistics. I work at the intersection of machine learning, quantitative modeling, and systems engineering — building things that reason about data, risk, and decisions.
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,linux,git,docker,cmake,latex&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,ros,react,postgres&perline=6" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swetank18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A0AEC0&icon_color=A0AEC0&text_color=c9d1d9" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=swetank18&theme=tokyonight&hide_border=true&background=0d1117&ring=A0AEC0&fire=A0AEC0&currStreakLabel=A0AEC0&sideLabels=c9d1d9&dates=c9d1d9" height="170" />
+</p>
+
+---
+
+### Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/swetank-kumar-706557249">LinkedIn</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="mailto:swetankkumar391@gmail.com">swetankkumar391@gmail.com</a>
+</p>
+
+---
+
+<p align="center">
+  <em>"Build fundamentals. Think in models. Optimize later."</em>
+</p>
